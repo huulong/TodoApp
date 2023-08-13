@@ -1,6 +1,6 @@
 # appdemo
 
-A new Flutter project.
+TodoAppFlutter
 
 ## Getting Started
 
