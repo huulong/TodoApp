@@ -1,0 +1,4 @@
+#Sun Aug 13 02:44:21 ICT 2023
+base.0=C\:\\Users\\Phung Huu Long\\Documents\\DartCoBan\\appdemo\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
